@@ -6,7 +6,7 @@
 <p align="center">I ❤️ solve big challenges using technology. A Computer Engineer 👨🏽‍💻 passionate about solving complex problems through technology. I seek and value continuous improvement, improving 1% 📈, but every day, always in conjunction with the fundamentals of agile development .</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github.com/1423924/1423924/issues/1#issue-2309553650" />
  </div>
  
  &nbsp;
